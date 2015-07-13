@@ -22,7 +22,4 @@
     "url": "https://github.com/Kureev/react-native-side-menu/issues"
   },
   "homepage": "https://github.com/Kureev/react-native-side-menu",
-  "peerDependencies": {
-    "react-native": ">= 0.7"
-  }
 }
